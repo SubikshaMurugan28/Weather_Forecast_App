@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather_Forecast_App</string>
+    <string name="weatherapp">WeatherApp</string>
+    <string name="weather_forecast_app">WEATHER FORECAST APP</string>
+    <string name="weather__app" />
+    <string name="weather_app">weather_app</string>
+</resources>
