@@ -25,9 +25,7 @@
         android:textColor="@color/white"
         android:textSize="52dp"
         android:textFontWeight="500"
-        android:textStyle="bold"
-
-        />
+        android:textStyle="bold" />
 
     <EditText
         android:id="@+id/cityName"
